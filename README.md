@@ -15,6 +15,7 @@ what appears on the organization page or in other repositories.
 | --- | --- |
 | `profile/README.md` | The public organization profile shown at github.com/RentRewards |
 | `README.md` | This file — documentation for anyone working in this repository |
+| `SECURITY.md` | How to report a vulnerability; the default for repositories without their own |
 
 ## Making changes
 
