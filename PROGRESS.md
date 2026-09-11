@@ -1,6 +1,6 @@
 # .github — Progress
 
-**Phase 1 complete · Phase 2 next · 2 of 4 milestones complete**
+**Both phases complete · 4 of 4 milestones complete**
 
 ## How this file works
 
@@ -36,7 +36,7 @@ vulnerability goes.
 
 ---
 
-## Phase 2 — Working conventions 🔄 IN PROGRESS
+## Phase 2 — Working conventions ✅ COMPLETE
 
 Bringing the repository onto the shared workflow.
 
@@ -49,11 +49,14 @@ Bringing the repository onto the shared workflow.
 - [x] Write `PROGRESS.md`: what has been done and what is left
 - [x] Record the branch and commit rules in `CLAUDE.md`
 
-### P2-M02 — The conventions enforced ⬜ NOT STARTED
+### P2-M02 — The conventions enforced ✅ COMPLETE
+
+**Branch:** `feat/p2-m02-enforce-conventions`
 
 #### Tasks
-- [ ] Enable the workflow plugin at project scope, as the other repositories have
-- [ ] Confirm the commit hook refuses a commit on a protected branch here
+- [x] Enable the workflow plugin at project scope, as the other repositories have
+- [x] Confirm the commit hook refuses a commit on a protected branch here
+- [x] Correct the stale summary line, which counted a merged milestone as unfinished
 
 ---
 

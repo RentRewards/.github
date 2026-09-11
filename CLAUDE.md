@@ -31,10 +31,11 @@ their base explicitly.
 
 ## Commits and pull requests
 
-Follow the house format: `/workflow:commit` for commits, one per task, and
-`/workflow:pr-summary` when the work is ready for review. The plugin is not yet
-enabled for this repository, so the commit hook does not run here — the rules
-still apply, they are just not enforced.
+The `workflow` plugin is enabled for this repository, so `/workflow:commit`,
+`/workflow:plan` and `/workflow:pr-summary` are available and the commit hook is
+active. One commit per task, and the message is written to a file in one command
+and committed in the next — the hook cannot read a file written by the same
+command that commits it.
 
 ## Definition of done
 
