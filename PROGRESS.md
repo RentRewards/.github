@@ -1,6 +1,6 @@
 # .github — Progress
 
-**Phase 1 complete · Phase 2 next · 2 of 4 milestones complete**
+**Phase 2 of 2 · P2-M02 in progress · 3 of 4 milestones complete**
 
 ## How this file works
 
@@ -49,7 +49,9 @@ Bringing the repository onto the shared workflow.
 - [x] Write `PROGRESS.md`: what has been done and what is left
 - [x] Record the branch and commit rules in `CLAUDE.md`
 
-### P2-M02 — The conventions enforced ⬜ NOT STARTED
+### P2-M02 — The conventions enforced 🔄 IN PROGRESS
+
+**Branch:** `feat/p2-m02-enforce-conventions`
 
 #### Tasks
 - [ ] Enable the workflow plugin at project scope, as the other repositories have
